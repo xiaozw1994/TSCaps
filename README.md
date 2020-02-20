@@ -9,3 +9,18 @@ The codes of this repo are tested on Python 3.6 and Tensorflow 1.13. First you m
         pip3 install --user -r irequest.txt or sudo pip3 install -r request.txt
         python2: you can change pip3 into pip .
 ```
+## Archetecture
+First we introduce the structure of our codes:
+```
+---------the dataset :
+
+```
+Second we discuss our proposed approach architectures.
+
+## Experiments
+In this paper, we chose XX datasets from the UCR time series achives.
+
+## Citation
+```
+   
+```
