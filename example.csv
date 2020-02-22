@@ -1,0 +1,91 @@
+classifier_name,dataset_name,accuracy
+Our Proposed Approach,Chinatown,0.9797
+Our Proposed Approach,SemgHandGenderCh2,0.91833333
+Our Proposed Approach,SemgHandMovementCh2,0.65556
+Our Proposed Approach,SemgHandSubjectCh2,0.877778
+Our Proposed Approach,crop,0.7747023
+Our Proposed Approach,InsectEPGSmallTrain,1
+Our Proposed Approach,InsectEPGRegularTrain,1
+Our Proposed Approach,GunPointMaleVersusFemale,1
+Our Proposed Approach,GunPointOldVersusYoung,1
+Our Proposed Approach,GunPointAgeSpan,0.9873
+Our Proposed Approach,Rock,0.82
+Our Proposed Approach,BME,1
+Our Proposed Approach,SmoothSubspace,1
+Our Proposed Approach,PowerCons,1
+Our Proposed Approach,UMD,1
+Best:lstm-fcn,Chinatown,0.982609
+Best:lstm-fcn,SemgHandGenderCh2,0.91
+Best:lstm-fcn,SemgHandMovementCh2,0.56
+Best:lstm-fcn,SemgHandSubjectCh2,0.873333
+Best:lstm-fcn,crop,0.74494
+Best:lstm-fcn,InsectEPGSmallTrain,0.935743
+Best:lstm-fcn,InsectEPGRegularTrain,0.995984
+Best:lstm-fcn,GunPointMaleVersusFemale,1
+Best:lstm-fcn,GunPointOldVersusYoung,0.993851
+Best:lstm-fcn,GunPointAgeSpan,0.996835
+Best:lstm-fcn,Rock,0.92
+Best:lstm-fcn,BME,0.99333
+Best:lstm-fcn,SmoothSubspace,0.98
+Best:lstm-fcn,PowerCons,0.99444
+Best:lstm-fcn,UMD,0.98611
+ResNet-Transformer1[25],Chinatown,0.985507
+ResNet-Transformer1[25],SemgHandGenderCh2,0.916667
+ResNet-Transformer1[25],SemgHandMovementCh2,0.504444
+ResNet-Transformer1[25],SemgHandSubjectCh2,0.74
+ResNet-Transformer1[25],crop,0.742738
+ResNet-Transformer1[25],InsectEPGSmallTrain,0.927711
+ResNet-Transformer1[25],InsectEPGRegularTrain,1
+ResNet-Transformer1[25],GunPointMaleVersusFemale,1
+ResNet-Transformer1[25],GunPointOldVersusYoung,1
+ResNet-Transformer1[25],GunPointAgeSpan,0.996835
+ResNet-Transformer1[25],Rock,0.92
+ResNet-Transformer1[25],BME,1
+ResNet-Transformer1[25],SmoothSubspace,1
+ResNet-Transformer1[25],PowerCons,0.9444
+ResNet-Transformer1[25],UMD,1
+Vanilla:ResNet-Transformer,Chinatown,0.985507
+Vanilla:ResNet-Transformer,SemgHandGenderCh2,0.866667
+Vanilla:ResNet-Transformer,SemgHandMovementCh2,0.51333
+Vanilla:ResNet-Transformer,SemgHandSubjectCh2,0.746667
+Vanilla:ResNet-Transformer,crop,0.743869
+Vanilla:ResNet-Transformer,InsectEPGSmallTrain,0.955823
+Vanilla:ResNet-Transformer,InsectEPGRegularTrain,1
+Vanilla:ResNet-Transformer,GunPointMaleVersusFemale,1
+Vanilla:ResNet-Transformer,GunPointOldVersusYoung,1
+Vanilla:ResNet-Transformer,GunPointAgeSpan,0.996835
+Vanilla:ResNet-Transformer,Rock,0.78
+Vanilla:ResNet-Transformer,BME,1
+Vanilla:ResNet-Transformer,SmoothSubspace,1
+Vanilla:ResNet-Transformer,PowerCons,0.93333
+Vanilla:ResNet-Transformer,UMD,1
+ResNet-Transformer2[25],Chinatown,0.985507
+ResNet-Transformer2[25],SemgHandGenderCh2,0.848333
+ResNet-Transformer2[25],SemgHandMovementCh2,0.391111
+ResNet-Transformer2[25],SemgHandSubjectCh2,0.66667
+ResNet-Transformer2[25],crop,0.746012
+ResNet-Transformer2[25],InsectEPGSmallTrain,0.971888
+ResNet-Transformer2[25],InsectEPGRegularTrain,1
+ResNet-Transformer2[25],GunPointMaleVersusFemale,0.996835
+ResNet-Transformer2[25],GunPointOldVersusYoung,1
+ResNet-Transformer2[25],GunPointAgeSpan,1
+ResNet-Transformer2[25],Rock,0.82
+ResNet-Transformer2[25],BME,1
+ResNet-Transformer2[25],SmoothSubspace,0.9933
+ResNet-Transformer2[25],PowerCons,0.927778
+ResNet-Transformer2[25],UMD,1
+ResNet-Transformer3[25],Chinatown,0.985507
+ResNet-Transformer3[25],SemgHandGenderCh2,0.6516667
+ResNet-Transformer3[25],SemgHandMovementCh2,0.46888
+ResNet-Transformer3[25],SemgHandSubjectCh2,0.788889
+ResNet-Transformer3[25],crop,0.740476
+ResNet-Transformer3[25],InsectEPGSmallTrain,0.477912
+ResNet-Transformer3[25],InsectEPGRegularTrain,1
+ResNet-Transformer3[25],GunPointMaleVersusFemale,0.996835
+ResNet-Transformer3[25],GunPointOldVersusYoung,0.991597
+ResNet-Transformer3[25],GunPointAgeSpan,0.848101
+ResNet-Transformer3[25],Rock,0.76
+ResNet-Transformer3[25],BME,1
+ResNet-Transformer3[25],SmoothSubspace,1
+ResNet-Transformer3[25],PowerCons,0.927778
+ResNet-Transformer3[25],UMD,1
