@@ -7,7 +7,7 @@ There is a sample picture in the standard dataset:<p align="center"><img src="im
 ## Environments
 The codes of this repo are tested on Python 3.6 and Tensorflow 1.13. First you must install some API your computers need. You can do as follows.
 ```
-        pip3 install --user -r irequest.txt or sudo pip3 install -r request.txt
+        pip3 install --user -r request.txt or sudo pip3 install -r request.txt
         python2: you can change pip3 into pip .
 ```
 ## Archetecture
