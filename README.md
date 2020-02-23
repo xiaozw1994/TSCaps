@@ -33,7 +33,7 @@ There are details of each dataset which was trained by our model.
 ```
 
 Second we discuss our proposed approach architectures:
-### Overall proposed Structured
+### Overall proposed Architecture
 Our Proposed Approach includes four parts, which its details are shown as follows :<p align="center"><img src="images/structure.png" alt="stucture" width="80%"></p> 
 #### ReBuilding 
 Use our decode layer to rebuild original features. There are some samples in the ECG5000 dataset of UCR Time Series Achive.<p align="center"><img src="images/Figure_1.png" alt="Rebuild" width="80%"></p> <p align="center"><img src="images/Figure_2.png" alt="Rebuild" width="80%"></p> 
