@@ -61,12 +61,12 @@ Compared with other existing algorithms, you can <p align="center"><img src="ima
 ```
 
 ## Citation
-Now Under View in the IEEE Transaction on nerual networks and learning systems.
+Now Under Review in the IEEE Transaction on nerual networks and learning systems.
 ```
 @article{IEEE Transaction on nerual networks and learning systems,   
   title={TSCaps:A Novel Multi-Capsule Neural Architecture for Time Series Classification},   
   author={Zhiwen Xiao, Xin Xu, Haoxi Zhang,and Edward Szczerbicki},    
-  journal={Uner View atIEEE Transaction on nerual networks and learning systems},    
+  journal={Uner Review at IEEE Transaction on nerual networks and learning systems},    
   year={2020}    
 }   
 ```
